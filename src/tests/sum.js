@@ -5,5 +5,4 @@ export function sum(a, b) {
 function sam(b) {
   b = 10;
 }
-
 console.log(sam(10));
