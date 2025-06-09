@@ -1,5 +1,6 @@
 function fib(){
-    console.log("jesus love you")
+   console.log(120);
+   
 }
 
 fib()
