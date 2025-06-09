@@ -14,4 +14,7 @@ test('add 30+50 to equal 50' , ()=>{
     expect(sum(30,50)).toBe(80)
 })
 
+test('add 30+50 to equal 50' , ()=>{
+    expect(sum(30,50)).toBe(80)
+})
 
